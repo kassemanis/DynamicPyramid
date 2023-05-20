@@ -24,7 +24,7 @@ Contributions to Dynamic Pyramid are welcome! If you find any issues or have sug
 
 ## Credits
 
-This project was created by Bouali Kassem Anis as part of the Advanced Reinforcement Learning Course/Subject, @the Faculty of Informatics, University of Debrecen.
+This project was created by Bouali Kassem Anis as part of the Computer Graphics Course/Subject, @the Faculty of Informatics, University of Debrecen.
 
 ## License
 
